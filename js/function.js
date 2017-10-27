@@ -261,6 +261,7 @@ function reset_all() {
 	$('#chkbx_reuse_no').prop('checked', false);
 	$('#num_output_string_length').val(1);
 	$('#num_output_quantity').val(1);
+	$('#txtarea_results').val('');
 	$('#btn_reset_all').prop('disabled', true);
 }
 
