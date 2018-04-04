@@ -8,8 +8,7 @@ A random string generator that can take numbers, letters, symbols, Chinese chara
 
 ---------------------------------------------------------------------------------------------------------------
 -  Copyright (C) coddec https://github.com/coddec
--  Free to use/modify/improve/fork (credits/author information must not be removed or modified), no commercial use allowed at all.
--  For commercial use or other matters, contact me at https://goo.gl/AKt4Vr
+-  Licensed under AGPL-3.0
 ---------------------------------------------------------------------------------------------------------------
 
 
